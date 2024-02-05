@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c84ffff8-4b96-4624-88c2-70462bfc7692" name="Changes" comment="Completed">
+      <change afterPath="$PROJECT_DIR$/Screenshots/ApplicationFormIsNotAvailable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/locationNotFound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/locationd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.08.47.55.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.08.52.32.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.08.52.47.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.08.55.33.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.08.58.42.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.00.15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.01.34.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.02.52.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.03.47.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.04.38.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.12.15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.19.22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.22.07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.26.52.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.35.29.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.39.53.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.45.28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.46.38.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.48.07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.49.13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.50.23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.52.34.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.09.58.20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.10.03.16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.10.08.23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.10.12.23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2024.02.05.10.13.05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/application.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/application.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/testlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/testlog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/testlog1.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/testlog1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Automation/pageObjects/QAJobsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Automation/pageObjects/QAJobsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Automation/testCases/ApiTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Automation/testCases/ApiTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Automation/testCases/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Automation/testCases/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Automation/testCases/TC_Career_Page_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Automation/testCases/TC_Career_Page_002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Automation/testCases/TC_Insider_Page_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Automation/testCases/TC_Insider_Page_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Automation/testCases/TC_QA_Jobs_003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Automation/testCases/TC_QA_Jobs_003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Automation/pageObjects/QAJobsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Automation/pageObjects/QAJobsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Automation/testCases/ApiTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Automation/testCases/ApiTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Automation/testCases/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Automation/testCases/BaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Automation/testCases/TC_Career_Page_002.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Automation/testCases/TC_Career_Page_002.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Automation/testCases/TC_Insider_Page_001.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Automation/testCases/TC_Insider_Page_001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Automation/testCases/TC_QA_Jobs_003.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Automation/testCases/TC_QA_Jobs_003.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2bfuqUvTSbJeNWeUMjyxa25aLCg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sahabt/IdeaProjects/PageObjectModel.java/Drivers&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sahabt\IdeaProjects\PageObjectModel.java\Drivers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Automation.pageObjects" />
+      <recent name="Automation.testCases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/sahabt/IdeaProjects/PageObjectModel.java/Testng.xml">
+    <configuration name="ApiTesting" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationSeleniumWeb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Automation.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Automation.testCases" />
+      <option name="MAIN_CLASS_NAME" value="Automation.testCases.ApiTesting" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTesting.createPet_emptyBody_invalidException_400" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationSeleniumWeb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Automation.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Automation.testCases" />
+      <option name="MAIN_CLASS_NAME" value="Automation.testCases.ApiTesting" />
+      <option name="METHOD_NAME" value="createPet_emptyBody_invalidException_400" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTesting.getPet_InvalidId_400" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationSeleniumWeb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Automation.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Automation.testCases" />
+      <option name="MAIN_CLASS_NAME" value="Automation.testCases.ApiTesting" />
+      <option name="METHOD_NAME" value="getPet_InvalidId_400" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTesting.updatePet_PetNotFound_404" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationSeleniumWeb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Automation.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Automation.testCases" />
+      <option name="MAIN_CLASS_NAME" value="Automation.testCases.ApiTesting" />
+      <option name="METHOD_NAME" value="updatePet_PetNotFound_404" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sahabt/IdeaProjects/PageObjectModel.java/Testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationSeleniumWeb" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/sahabt/IdeaProjects/PageObjectModel.java/Testng.xml" />
+        <item itemvalue="TestNG.ApiTesting" />
+        <item itemvalue="TestNG.ApiTesting.updatePet_PetNotFound_404" />
+        <item itemvalue="TestNG.ApiTesting.getPet_InvalidId_400" />
+        <item itemvalue="TestNG.ApiTesting.createPet_emptyBody_invalidException_400" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c84ffff8-4b96-4624-88c2-70462bfc7692" name="Changes" comment="" />
+      <created>1706618649425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706618649425</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1707067837253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707067837253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="Updated" />
+    <MESSAGE value="Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Automation/pageObjects/InsiderPage.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Automation/pageObjects/CareerPage.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

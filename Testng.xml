@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AutomationSeleniumWeb">
+
+	<listeners>
+		<listener class-name="Automation.utilities.Reporting" />
+	</listeners>
+
+
+	<test name="AutomationSelenium Test">
+		<parameter name="browser" value="chrome" />
+		<!-- Change the value to "firefox" if you want to run the test in Firefox -->
+		<classes>
+			<class name="Automation.testCases.TC_Insider_Page_001" />
+			<class name="Automation.testCases.TC_Career_Page_002" />
+			<class name="Automation.testCases.TC_QA_Jobs_003" />
+			<class name="Automation.testCases.ApiTesting" />
+
+
+		</classes>
+
+	</test>
+
+</suite>
